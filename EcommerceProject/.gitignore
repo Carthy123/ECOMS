@@ -1,0 +1,11 @@
+.dotnet_cli_home/
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+*.user
+*.suo
+appsettings.Local.json
+.tools/
+*.db-shm
+*.db-wal
